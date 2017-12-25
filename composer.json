@@ -1,0 +1,43 @@
+{
+
+    "name": "sixstar/core",
+
+    "description": "php library wrapper",
+
+    "license": "MIT",
+
+    "keywords": ["message queue"],
+
+    "version": "1.0.0",
+
+    "authors": [
+
+        {
+
+            "name": "sixstar",
+
+            "email": "service@sixstaredu.com"
+
+        }
+
+    ],
+
+    "require": {
+
+        "php": ">=5.3.0"
+
+    },
+
+ 
+
+    "autoload": {
+
+        "psr-0": {
+
+            "Sixstar\\Core": "src/"
+
+        }
+
+    }
+
+}
